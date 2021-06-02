@@ -1,6 +1,10 @@
 <h1 align="center">Oi :D<br>Seja Bem-vindo(a) </h1> 
 
-Here are some ideas to get you started:
+<p> Eu sou <strong> Wendel </strong>, aluno do Instituto Federal De São Paulo integrado com
+o curso técnico em informática. Atualmente estou cursando
+meu 3º ano do ensino médio e adquiri conhecimento nas
+áreas de: </p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align = "center"> Informações do meu GitHub</h3>
+<hr>
 
 <h3 align = "center"> Informações do meu GitHub</h3>
 <hr>
