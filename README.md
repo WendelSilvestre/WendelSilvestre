@@ -1,6 +1,7 @@
 <h1 align="center">Oi :D<br>Seja Bem-vindo(a) </h1> 
 
-<p> Eu sou <strong> Wendel </strong>, aluno do Instituto Federal De São Paulo integrado com
+<p>Bem como você ja deve ter visto meu nome é <strong> Wendel </strong>, 
+sou aluno do Instituto Federal De São Paulo integrado com
 o curso técnico em informática. Atualmente estou cursando
 meu 3º ano do ensino médio e adquiri conhecimento nas
 áreas de: </p>
