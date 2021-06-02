@@ -18,5 +18,6 @@ conhecimento nas áreas de: </p>
 <hr>
 <img alt= "WendelSilvestre's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=WendelSilvestre&theme=nord&show_icons=true)" />
 
-
+<h3 align = "center"> Isso aqui é muito legal </h3>
+<hr>
 ![Snake animation](https://github.com/WendelSilvestre/snk/raw/output/github-contribution-grid-snake.svg)
