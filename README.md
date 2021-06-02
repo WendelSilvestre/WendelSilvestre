@@ -20,4 +20,5 @@ conhecimento nas áreas de: </p>
 
 <h3 align = "center"> Isso aqui é muito legal </h3>
 <hr>
+
 ![Snake animation](https://github.com/WendelSilvestre/snk/raw/output/github-contribution-grid-snake.svg)
