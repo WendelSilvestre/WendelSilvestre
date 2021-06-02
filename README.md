@@ -1,4 +1,4 @@
-<h1 align="center"> Oi 👋<br> Seja Bem-vindo :D </h1> 
+<h1 align="center">Oi :D<br>Seja Bem-vindo(a) </h1> 
 
 Here are some ideas to get you started:
 
