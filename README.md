@@ -19,4 +19,4 @@ conhecimento nas áreas de: </p>
 <img alt= "WendelSilvestre's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=WendelSilvestre&theme=nord&show_icons=true)" />
 
 
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
