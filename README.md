@@ -2,9 +2,9 @@
 
 <p>Bem como você ja deve ter visto meu nome é <strong> Wendel </strong>, 
 sou aluno do Instituto Federal De São Paulo integrado com
-o curso técnico em informática. Atualmente estou cursando
-meu 3º ano do ensino médio e adquiri conhecimento nas
-áreas de: </p>
+o curso técnico em informática, onde atualmente estou cursando
+meu 3º ano do ensino médio, gosto muito de informatica e amo programar. Já adiquiri
+conhecimento nas áreas de: </p>
 
 <hr>
 
@@ -13,8 +13,6 @@ meu 3º ano do ensino médio e adquiri conhecimento nas
 - Banco de dados (SQL)
 - Hardware e software
 - GitHub
-
--->
 
 <h3 align = "center"> Informações do meu GitHub</h3>
 <hr>
