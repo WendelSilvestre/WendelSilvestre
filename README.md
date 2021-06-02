@@ -6,19 +6,15 @@ o curso técnico em informática. Atualmente estou cursando
 meu 3º ano do ensino médio e adquiri conhecimento nas
 áreas de: </p>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align = "center"> Informações do meu GitHub</h3>
 <hr>
+
+- Linguagens de programação (JAVA, C++, PHP, Python)
+- Linguagem Web (HTML, CSS)
+- Banco de dados (SQL)
+- Hardware e software
+- GitHub
+
+-->
 
 <h3 align = "center"> Informações do meu GitHub</h3>
 <hr>
