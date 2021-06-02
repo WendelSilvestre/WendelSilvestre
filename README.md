@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![WendelSilvestre's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelSilvestre&theme=nord&show_icons=true)
+<h3 align = "left">💻 Informações do meu GitHub 💻 </h3>
+<hr>
+<img aling="center">![WendelSilvestre's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelSilvestre&theme=nord&show_icons=true)</img>
 
