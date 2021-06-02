@@ -17,5 +17,6 @@ conhecimento nas áreas de: </p>
 <h3 align = "center"> Informações do meu GitHub</h3>
 <hr>
 <img alt= "WendelSilvestre's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=WendelSilvestre&theme=nord&show_icons=true)" />
- 
- ![Snake animation](https://github.com/WendelSilvestre/WendelSilvestre/blob/output/github-contribution-grid-snake.svg)
+
+
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
