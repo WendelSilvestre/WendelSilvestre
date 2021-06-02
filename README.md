@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align = "left">💻 Informações do meu GitHub 💻 </h3>
+<h3 align = "center"> Informações do meu GitHub </h3>
 <hr>
-<img aling="center">![WendelSilvestre's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelSilvestre&theme=nord&show_icons=true)</img>
+<img align="center" alt= "WendelSilvestre's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=WendelSilvestre&theme=nord&show_icons=true)" />
 
