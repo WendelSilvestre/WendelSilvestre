@@ -12,7 +12,7 @@ conhecimento nas áreas de: </p>
 - Linguagem Web (HTML, CSS)
 - Banco de dados (SQL)
 - Hardware e software
-- GitHub
+- Git e GitHub
 
 <h3 align = "center"> Informações do meu GitHub</h3>
 <hr>
