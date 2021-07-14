@@ -21,8 +21,8 @@
 <h3 align = "center"> Atualmente estou estudando </h3>
 <hr>
   <div align="center">
-    <img src="https://img.icons8.com/color/452/python.png" width =" 40 "height =" 40 "/>
-    <img src="https://img.icons8.com/color/452/python.png" width =" 40 "height =" 40 "/>
+    <img src="https://img.icons8.com/color/452/python.png" width =" 70 "height =" 70 "/>
+    <img src="https://img.icons8.com/color/452/python.png" width =" 70 "height =" 70 "/>
   </div>
 
 <h3 align = "center"> Isso aqui é muito legal </h3>
