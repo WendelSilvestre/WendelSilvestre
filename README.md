@@ -17,10 +17,10 @@
 <h3 align = "center"> Atualmente estou estudando </h3>
 <hr>
   <div align="center">
-    <img src="https://img.icons8.com/color/452/python.png" width =" 60 "height =" 60 "/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg " width =" 60 "height =" 60 "/>
-     <img src="https://img.icons8.com/plasticine/2x/oracle-pl-sql--v3.png" width =" 60 "height =" 60 "/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width =" 60 "height =" 60 "/>
+     <img src="https://img.icons8.com/color/452/python.png" width =" 60 "height =" 60 "/>
+     <img src="https://img.icons8.com/plasticine/2x/oracle-pl-sql--v3.png" width =" 65 "height =" 65 "/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg " width =" 60 "height =" 60 "/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" widh =" 60 "height =" 60 "/>
   </div>
 
 <h3 align = "center"> Informações do meu GitHub</h3>
