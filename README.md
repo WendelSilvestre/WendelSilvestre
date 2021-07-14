@@ -14,16 +14,18 @@
 - Hardware e software
 - Git e GitHub
 
-<h3 align = "center"> Informações do meu GitHub</h3>
-<hr>
-  <img alt= "WendelSilvestre's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=WendelSilvestre&theme=nord&show_icons=true)" />
-
 <h3 align = "center"> Atualmente estou estudando </h3>
 <hr>
   <div align="center">
     <img src="https://img.icons8.com/color/452/python.png" width =" 70 "height =" 70 "/>
-    <img src="https://img.icons8.com/color/452/python.png" width =" 70 "height =" 70 "/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg " width =" 70 "height =" 70 "/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width =" 70 "height =" 70 "/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width =" 70 "height =" 70 "/>
   </div>
+
+<h3 align = "center"> Informações do meu GitHub</h3>
+<hr>
+  <img alt= "WendelSilvestre's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=WendelSilvestre&theme=nord&show_icons=true)" />
 
 <h3 align = "center"> Isso aqui é muito legal </h3>
 <hr>
