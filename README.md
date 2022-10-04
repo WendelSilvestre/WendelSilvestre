@@ -8,8 +8,8 @@
 
 <hr>
 
-- Linguagens de programação (JAVA, C++, PHP)
-- Linguagem Web (HTML, CSS)
+- Linguagens de programação (JAVA, C++, PHP, Python, Node)
+- Linguagem Web (HTML, CSS, JavaScript)
 - Banco de dados (SQL)
 - Hardware e software
 - Git e GitHub
