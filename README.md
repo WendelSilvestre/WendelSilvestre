@@ -14,15 +14,6 @@
 - Sistemas de Rede
 - Git e GitHub
 
-<h3 align = "center"> Atualmente estou estudando </h3>
-<hr>
-  <div align="center">
-     <img src="https://img.icons8.com/color/452/python.png" alt = "Python" width =" 60 "height =" 60 "/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg " alt = "C#" width =" 60 "height =" 60 "/>
-     <img src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png" alt = "Oracle" width =" 60 "height =" 60 "/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" widh =" 60 "height =" 60 "/>
-  </div>
-
 <h3 align = "center"> Informações do meu GitHub</h3>
 <hr>
   <img alt= "WendelSilvestre's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=WendelSilvestre&theme=nord&show_icons=true)" />
