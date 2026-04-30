@@ -1,17 +1,17 @@
 <h1 align="center">Oi :D<br>Seja Bem-vindo(a) </h1> 
 
   <p>Bem como você ja deve ter visto meu nome é <strong> Wendel </strong>, 
-  sou aluno do Instituto Federal De São Paulo integrado com
-  o curso técnico em informática, onde atualmente estou cursando
-  meu 3º ano do ensino médio, gosto muito de informatica e amo programar. Já adiquiri
+  fui aluno do Instituto Federal De São Paulo integrado com
+  o curso técnico em informática e estou cursando Sistemas na FIAP. Tenho
   conhecimento nas áreas de: </p>
 
 <hr>
 
 - Linguagens de programação (JAVA, C++, PHP, Python, Node)
-- Linguagem Web (HTML, CSS, JavaScript)
-- Banco de dados (SQL)
+- Linguagem Web (HTML, CSS, JavaScript, React)
+- Banco de dados
 - Hardware e software
+- Sistemas de Rede
 - Git e GitHub
 
 <h3 align = "center"> Atualmente estou estudando </h3>
